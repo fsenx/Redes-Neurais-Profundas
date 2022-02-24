@@ -1,0 +1,6 @@
+banco_irece_completo.csv
+df_sem_outliers.csv
+validacao.csv
+previsao_cnn.csv
+previsao_dff.csv
+previsao_lstm.csv
